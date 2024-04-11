@@ -1,0 +1,84 @@
+_repo: Einstein-s-planetoid_73173
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Cohen, Chester
+    aliases:
+    - Conant, Chester B.
+    - Coe, Chester
+    - Conanight
+    gutenberg_agent_id: '54296'
+    url: http://www.gutenberg.org/2009/agents/54296
+  - agent_name: Knight, Damon
+    aliases:
+    - Knight, Damon Francis
+    - Fleming, Stuart
+    - Conanight
+    birthdate: 1922
+    deathdate: 2002
+    gutenberg_agent_id: '25414'
+    url: http://www.gutenberg.org/2009/agents/25414
+    wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
+creator:
+  authors:
+  - agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    - Cooke, Arthur
+    - Kornbluth, C.M.
+    - Lavond, Paul Dennis
+    - Corwin, Cecil
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: https://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+  - agent_name: Lowndes, Robert W.
+    aliases:
+    - Lowndes, Robert Augustine Ward
+    - Josephs, Henry
+    - Lavond, Paul Dennis
+    birthdate: 1916
+    deathdate: 1998
+    gutenberg_agent_id: '25669'
+    url: http://www.gutenberg.org/2009/agents/25669
+    wikipedia: https://en.wikipedia.org/wiki/Robert_A._W._Lowndes
+  - agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    - MacCreigh, James
+    - Lavond, Paul Dennis
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - https://en.wikipedia.org/wiki/Frederik_Pohl
+description: 'Text notes that "Paul Dennis Lavond is a pseudonym known to be used
+  by three different authors: C. M. Kornbluth, Robert A. W. Lowndes, and Frederick
+  Pohl."  Story may not be co-written by all three.'
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73173'
+language: en
+pgterms:marc905: 20240228111045lavond
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Alex White, Greg Weeks, Mary Meehan & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bColumbia Publications, Inc., $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Asteroids -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Einstein's planetoid
+url: http://www.gutenberg.org/ebooks/73173
