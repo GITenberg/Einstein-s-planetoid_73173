@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '25414'
     url: http://www.gutenberg.org/2009/agents/25414
     wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
+covers:
+- cover_type: archival
+  image_path: 73173-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Kornbluth, C. M. (Cyril M.)
@@ -60,6 +63,8 @@ creator:
 description: 'Text notes that "Paul Dennis Lavond is a pseudonym known to be used
   by three different authors: C. M. Kornbluth, Robert A. W. Lowndes, and Frederick
   Pohl."  Story may not be co-written by all three.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73173#Einstein-s-planetoid
 gutenberg_issued: '2024-03-16'
 gutenberg_type: Text
 identifiers:
